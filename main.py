@@ -31,3 +31,4 @@ for num in nums:
 	else:
 		print("File already downloaded. Number: "+str(i))
 	i = i + 1
+	time.sleep(5)
